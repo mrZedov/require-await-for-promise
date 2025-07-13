@@ -1,0 +1,20 @@
+{
+  "name": "require-await-for-promise",
+  "version": "1.0.0",
+  "description": "ESLint plugin with custom rules",
+  "main": "index.js",
+  "keywords": ["eslint", "eslintplugin", "eslint-plugin"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrZedov/require-await-for-promise.git"
+  },
+  "author": "Vitalii Zgura",
+  "license": "MIT",
+  "dependencies": {},
+  "peerDependencies": {
+    "eslint": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
