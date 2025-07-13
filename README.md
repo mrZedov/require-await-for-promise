@@ -1,0 +1,1 @@
+# require-await-for-promise
