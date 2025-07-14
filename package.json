@@ -1,12 +1,13 @@
 {
   "name": "eslint-plugin-require-await-for-promise",
-  "version": "1.0.1",
+  "homepage": "https://github.com/mrZedov/require-await-for-promise",
+  "version": "1.0.2",
   "description": "ESLint plugin that enforces await or then/catch/finally usage on Promise-returning calls",
   "main": "index.js",
   "keywords": ["eslint", "eslintplugin", "eslint-plugin", "eslint-rule", "promise", "async", "await"  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrZedov/eslint-plugin-require-await-for-promise.git"
+    "url": "https://github.com/mrZedov/require-await-for-promise.git"
   },
   "author": "Vitalii Zgura",
   "license": "MIT",
